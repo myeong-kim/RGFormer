@@ -1,6 +1,6 @@
 # RGFormer: Reference-Guided Transformer for Face Super-Resolution (Neurocomputing 2026)
 
-[![Paper](https://img.shields.io/badge/Paper-Neurocomputing-blue)](https://doi.org/10.1016/your-doi-here)
+[![Paper](https://img.shields.io/badge/Paper-Neurocomputing-blue)](https://authors.elsevier.com/c/1n2cN_L2Otsoq5)
 
 > Min-Yeong Kim\*, Seung-Wook Kim\*, and Keunsoo Ko, "Reference-Guided Transformer for Face Super-Resolution"
 >
@@ -95,8 +95,3 @@ Download test pairs of target and reference: [Google Drive](https://drive.google
 ## Qualitative comparison on the Wider dataset
 <img width="2089" height="1147" alt="image" src="https://github.com/user-attachments/assets/42219456-46b5-4f0c-8ed2-cbdabef3fcdb" />
 
----
-
-## Acknowledgements
-
-This work builds upon [CodeFormer](https://github.com/sczhou/CodeFormer). We thank the authors for their excellent work.
