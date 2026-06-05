@@ -93,6 +93,5 @@ Download test pairs of target and reference: [Google Drive](https://drive.google
 
 ---
 ## Qualitative comparison on the Wider dataset
-<img width="2089" height="1147" alt="image" src="<img width="763" height="419" alt="image" src="https://github.com/user-attachments/assets/d26f1dea-8696-430c-b0b4-5b6631914753" />
-" />
+<img width="763" height="419" alt="image" src="https://github.com/user-attachments/assets/d26f1dea-8696-430c-b0b4-5b6631914753" />
 
