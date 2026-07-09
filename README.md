@@ -1,7 +1,6 @@
 # RGFormer: Reference-Guided Transformer for Face Super-Resolution (Neurocomputing 2026)
 
-[![Paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122601221X?dgcid=coauthor)
-
+[![Paper](https://img.shields.io/badge/Paper-Neurocomputing-blue)](https://www.sciencedirect.com/science/article/abs/pii/S092523122601221X?dgcid=coauthor)
 > Min-Yeong Kim\*, Seung-Wook Kim\*, and Keunsoo Ko, "Reference-Guided Transformer for Face Super-Resolution"
 >
 > \*These authors contributed equally to this work.
