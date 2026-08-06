@@ -11,7 +11,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/keunsoo-ko/RGFormer.git
+git clone https://github.com/myeong-kim/RGFormer.git
 cd RGFormer
 
 # 2. Create anaconda environment
